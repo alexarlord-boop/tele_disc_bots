@@ -3,7 +3,6 @@ import discord
 import random
 from discord.ext import commands, timers
 
-TOKEN = "NzA5MDkyOTUyODczNjMxNzQ0.Xrg4gA.KzZI3St1y0A6DK32ABIxIafiQbw"
 
 
 class EmojiBotClient(discord.Client):
